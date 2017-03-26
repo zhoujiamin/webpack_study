@@ -1,5 +1,5 @@
 {
-  "name": "multi_page_application",
+  "name": "how_webpack_works",
   "version": "1.0.0",
   "description": "",
   "main": "webpack.config.js",
