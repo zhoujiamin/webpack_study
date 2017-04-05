@@ -1,4 +1,4 @@
-#multi-page application example多页面应用
+# multi-page application example多页面应用
 
 >主要注意点：
 
